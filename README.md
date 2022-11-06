@@ -1,2 +1,2 @@
-# FRElab
+# FRELab
 Website - Functional Reef Ecology Lab
